@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![roadmap.sh](https://roadmap.sh/card/wide/6773d99e70129741a85678a2?variant=dark&roadmaps=backend%2Caspnet-core%2Csoftware-architect)](https://roadmap.sh)
+
 <!--
 **stahkravtsov/stahkravtsov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
